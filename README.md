@@ -29,6 +29,63 @@ Bioinformatics for Drug Development is a Python package that provides a simple p
 
 Bioinformatics for drug development is an interdisciplinary field that combines biology, computer science, and data analysis to accelerate the discovery and optimization of new therapeutic agents. By leveraging large-scale biological data, such as genomic, proteomic, and metabolomic information, bioinformatics tools enable researchers to identify potential drug targets, understand disease mechanisms, and predict drug interactions and efficacy. This approach not only enhances the efficiency of the drug development process but also reduces costs and time, ultimately leading to more effective and personalized treatments for patients.
 
+## Bioinformatics for Drug Development Course Outline
+
+This 3-month course is designed to provide a comprehensive introduction to bioinformatics for drug development. The course will cover the basics of bioinformatics, molecular modeling, and virtual screening, as well as more advanced topics such as machine learning and data analysis.
+
+#### Month 1: Introduction to Bioinformatics and Molecular Modeling
+
+- Week 1: Introduction to bioinformatics and its role in drug development
+- Week 2: Molecular modeling basics: atom types, bond orders, and molecular descriptors
+- Week 3: Introduction to molecular modeling software: RDKit and PyMOL
+- Week 4: Building and visualizing molecular models: SMILES, SDF, and PDB files
+
+#### Month 2: Virtual Screening and Molecular Docking
+
+- Week 5: Introduction to virtual screening and molecular docking
+- Week 6: Molecular docking algorithms: DOCK, AutoDock, and Glide
+- Week 7: Virtual screening workflows: preparing ligands and receptors
+- Week 8: Analyzing molecular docking results: binding energies and docking scores
+
+#### Month 3: Machine Learning and Data Analysis in Bioinformatics
+
+- Week 9: Introduction to machine learning in bioinformatics
+- Week 10: Supervised and unsupervised learning methods: regression, classification, and clustering
+- Week 11: Data analysis and visualization: Matplotlib, Seaborn, and Plotly
+- Week 12: Final project presentations: applying bioinformatics to drug development
+
+### 🛸 Course Syllabus Table
+
+| Week | Topic                                   | Description                                               | Assignments                                   |
+|------|-----------------------------------------|-----------------------------------------------------------|-----------------------------------------------|
+| 1    | Introduction to Bioinformatics          | Overview of bioinformatics and its role in drug development | Read chapters 1-2, complete assignment 1     |
+| 2    | Molecular Modeling Basics               | Atom types, bond orders, and molecular descriptors        | Complete assignment 2, build a molecular model |
+| 3    | Molecular Modeling Software             | Introduction to RDKit and PyMOL                           | Complete assignment 3, visualize a molecular model |
+| 4    | Building and Visualizing Molecular Models| SMILES, SDF, and PDB files                                | Complete assignment 4, build and visualize a molecular model |
+| 5    | Introduction to Virtual Screening       | Overview of virtual screening and molecular docking        | Read chapters 5-6, complete assignment 5     |
+| 6    | Molecular Docking Algorithms            | DOCK, AutoDock, and Glide                                 | Complete assignment 6, dock a ligand to a receptor |
+| 7    | Virtual Screening Workflows             | Preparing ligands and receptors                            | Complete assignment 7, prepare a virtual screening workflow |
+| 8    | Analyzing Molecular Docking Results     | Binding energies and docking scores                        | Complete assignment 8, analyze molecular docking results |
+| 9    | Introduction to Machine Learning        | Supervised and unsupervised learning methods              | Read chapters 9-10, complete assignment 9    |
+| 10   | Data Analysis and Visualization         | Matplotlib, Seaborn, and Plotly                           | Complete assignment 10, visualize data       |
+| 11   | Final Project Preparation               | Applying bioinformatics to drug development               | Complete assignment 11, prepare final project |
+| 12   | Final Project Presentations             | Final project presentations                                | Present final project                         |
+
+
+### 🛸 Current versions of the dependencies:
+
+| Dependency      | Version   | Description                                   |
+|------------------|-----------|-----------------------------------------------|
+| RDKit            | 2022.03.1 | Molecular modeling and cheminformatics library |
+| PyMOL           | 2.4.0    | Molecular visualization software               |
+| Matplotlib       | 3.5.1    | Data visualization library                     |
+| Seaborn          | 0.11.2   | Data visualization library                     |
+| Plotly           | 5.6.0    | Data visualization library                     |
+| Scikit-learn     | 1.0.2    | Machine learning library                       |
+| Pandas           | 1.4.1    | Data analysis library                          |
+| NumPy            | 1.22.3   | Numerical computing library                    |
+
+
 ## 💻 Installation
 
 To install the package, run the following command:
@@ -158,6 +215,7 @@ This project is provided "as is" without warranty of any kind, express or implie
 ### Added  
 - ✨ Create Repository for BioInformatics for Drug Development
 - ✨ Create Documentation
+- ✨ Create Course Table Syllabus
 
 ## [0.0.1] - 2025-02-TBA     
 ### Added  
