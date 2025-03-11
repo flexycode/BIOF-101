@@ -220,6 +220,12 @@ This project is provided "as is" without warranty of any kind, express or implie
 ## [0.0.1] - 2025-02-TBA     
 ### Added  
 - ✨ Coming Soon
+- ✨ Coming Soon
+
+## [0.0.1] - 2025-03-TBA     
+### Added  
+- ✨ Coming Soon
+- ✨ Coming Soon
 
 🧊 BIOINFORMATICS 101
 ```
