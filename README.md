@@ -246,7 +246,7 @@ This project is provided "as is" without warranty of any kind, express or implie
 
 <!-- End point line insert Comeback again next time, feel free to modify this  -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=💎💎Come+Back+Again+next+time💎💎" alt="mystreak"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Come+Back+Again+next+time" alt="mystreak"/>
 </p>
 
 </p>
